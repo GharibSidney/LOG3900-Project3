@@ -1,3 +1,4 @@
+### En collobaration avec https://github.com/1t1n1
 # LOG2990 - Code de base
 
 Code de base à utiliser pour démarrer le développement de votre projet.

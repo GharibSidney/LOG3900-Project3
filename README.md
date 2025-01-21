@@ -1,4 +1,4 @@
-### En collaboration avec https://github.com/1t1n1
+### En collaboration avec https://github.com/1t1n1 et https://github.com/jeromechabot
 # LOG3900 - Code de base
 
 Code de base à utiliser pour démarrer le développement de votre projet.
